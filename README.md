@@ -1,5 +1,7 @@
 In this project, let's build an **Even Odd App** by applying the concepts we have learned till now.
 
+website: https://akisettieoapp.ccbp.tech
+
 ### Refer to the image below:
 
 <br/>
